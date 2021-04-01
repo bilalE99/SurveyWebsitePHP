@@ -1,6 +1,5 @@
-2CWK50 PHP Focused Assessment.
+
 Bilal El-Fitouri
-18017385
 
 1- Run create_data.php
 2- You wil then be prompted to the user sign in/up page
